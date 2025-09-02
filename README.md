@@ -12,8 +12,7 @@
   href="https://www.linkedin.com/in/yousef-mohamed-49b696229/" 
   target="_blank" 
   rel="nofollow" 
-  title="LinkedIn profile"
-  style="text-decoration: none; margin-right: 8px;"
+  title="LinkedIn profile" style="text-decoration: none; margin-right: 8px;"
 >
   <img 
     alt="LinkedIn" 
