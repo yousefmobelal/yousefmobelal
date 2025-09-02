@@ -8,11 +8,17 @@
 <h2>Get in Touch</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/yousef-mohamed-49b696229/" target="_blank" rel="nofollow" title="LinkedIn profile">
-    <img 
-      alt="LinkedIn" 
-      src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a 
+  href="https://www.linkedin.com/in/yousef-mohamed-49b696229/" 
+  target="_blank" 
+  rel="nofollow" 
+  title="LinkedIn profile"
+  style="text-decoration: none; margin-right: 8px;"
+>
+  <img 
+    alt="LinkedIn" 
+    src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   <a href="mailto:ym8370302@gmail.com" target="_blank" title="Send me an email">
     <img 
       alt="Gmail"
