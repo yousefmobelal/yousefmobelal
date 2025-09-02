@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <p dir="auto">I’m a Software Engineer specializing in mobile and full-stack development, with a strong focus on crafting high-quality, user-centric applications. Over the past five years, I’ve built and delivered a variety of Flutter projects — from freelance solutions to production-ready apps — gaining experience across the full software lifecycle, from design to deployment. Currently, I’m expanding my expertise through the ITI Full-Stack MEARN program, sharpening my skills in modern web technologies and backend development while completing my military service. Looking ahead, I’m eager to leverage my combined mobile and web background to build scalable digital solutions, contribute to innovative teams, and continuously grow both technically and professionally.</p>
 
-- 📫 How to reach me **ym8370302@gmail.com**
+<h2 class="heading-element" dir="auto"> Contact with me on </h2>
+  
+<ul dir="auto">
+<li>Email : <a href="mailto:abdullah.mansour97@gmail.com">abdullah.mansour97@gmail.com</a></li>
+</ul>
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"> Contact with me on </h2><a id="user-content--contact-with-me-on-" class="anchor" aria-label="Permalink:  Contact with me on " href="#-contact-with-me-on-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<p dir="auto"> <a href="https://www.facebook.com/abdullahmanss" rel="nofollow"><img alt="Google Play" src="https://camo.githubusercontent.com/155b9f20f4a0a3f587b3846d54e1e1160e84bdfbace82dafb6daca9213e3807d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3432363742322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/abdullah-mansour-346516159" rel="nofollow"><img alt="Google Play" src="https://camo.githubusercontent.com/5eb14fe47963eb6b66a11125d7ece83551a4ce7f01a62714e920120a1086a878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373762352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.youtube.com/AbdullahMansourAli" rel="nofollow"><img alt="Google Play" src="https://camo.githubusercontent.com/6a4d47c20e767f1cd370762b5da60a005673f3655aa182fda047e07f2a40bbd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f796f75747562652d4646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/yousef-mohamed-49b696229/" rel="nofollow">
+    <img 
+      alt="LinkedIn" 
+      src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+      style="max-width: 100%;">
+  </a>
+</p>
