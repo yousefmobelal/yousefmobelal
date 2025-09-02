@@ -4,7 +4,7 @@
 <h2 class="heading-element" dir="auto"> Contact with me on </h2>
   
 <ul dir="auto">
-<li>Email : <a href="mailto:abdullah.mansour97@gmail.com">abdullah.mansour97@gmail.com</a></li>
+<li>Email : <a href="mailto:ym8370302@gmail.com">ym8370302@gmail.com</a></li>
 </ul>
 
 <p dir="auto">
