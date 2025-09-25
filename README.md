@@ -1,7 +1,7 @@
 <section>
   <h1>Hi 👋, I'm Yousef</h1>
   <p>
-    I’m a Software Engineer specializing in full-stack and mobile development, with a strong focus on crafting high-quality, user-centric applications. Over the past five years, I’ve built and delivered a variety of Flutter projects — from freelance solutions to production-ready apps — gaining experience across the full software lifecycle, from design to deployment. Currently, I’m expanding my expertise through the ITI Full-Stack MEARN program, sharpening my skills in modern web technologies and backend development while completing my military service. Looking ahead, I’m eager to leverage my combined mobile and web background to build scalable digital solutions, contribute to innovative teams, and continuously grow both technically and professionally.
+    I’m a Software Engineer specializing in full-stack and mobile development, with a strong focus on crafting high-quality, user-centric applications. Over the past five years, I’ve built and delivered a variety of Flutter projects, from freelance solutions to production-ready apps, gaining experience across the full software lifecycle, from design to deployment. Currently, I’m expanding my expertise through the ITI Full-Stack MEARN program, sharpening my skills in modern web technologies and backend development while completing my military service. Looking ahead, I’m eager to leverage my combined mobile and web background to build scalable digital solutions, contribute to innovative teams, and continuously grow both technically and professionally.
   </p>
 </section>
 
