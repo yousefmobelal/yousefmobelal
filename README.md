@@ -24,3 +24,6 @@
       src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+[Download My CV](https://drive.google.com/file/d/160j6gzbD3hBM5eyzZBZrGvbD8gurHelM/view?usp=sharing)
+
